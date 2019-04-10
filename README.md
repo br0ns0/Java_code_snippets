@@ -15,72 +15,73 @@ Direct Links:
   NAME:                
 
 1. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AbsoluteValue.java
-">AbsoluteValue==>/if condition /Math.abs(double n)</a>
+">AbsoluteValue==>    /if condition /Math.abs(double n)</a>
 
 
 2. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AddNumbers.java
-">AddNumbers==>/return total sum /for loop counter</a>
+">AddNumbers==>   /return total sum /for loop counter</a>
  
 3. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CalculateTip.java
-">CalculateTip==>/printf</a>
+">CalculateTip==>   /printf</a>
  
 4. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CheckWifi.java
-">CheckWifi==>/for loop /boolean /if condition /break</a>
+">CheckWifi==>    /for loop /boolean /if condition /break</a>
 
 5.<a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CountingDown.java
-">CountingDown==>/for loop</a>
+">CountingDown==>   /for loop</a>
  
 6. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/EvenNumbers.java
-">EvenNumbers==>/for loop</a>
+">EvenNumbers==>    /for loop</a>
 
 7. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Factorial.java
-">Factorial==>/for loop</a>
+">Factorial==>    /for loop</a>
 
 8. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/FastestTime.java
-">FastestTime==>/array search /for loop /if statment</a>
+">FastestTime==>    /array search /for loop /if statment</a>
 
-9. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Fetch.java">Fetch (DOG)==>/array counter/this.</a>
+9. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Fetch.java">Fetch (DOG)==>   /array counter/this.</a>
 
 10. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/FindRange.java
 ">FindRange ==>/for loop /nested if staments</a>
 
 11. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Greeting.java
-">Greeting==>/String concatonation</a>
+">Greeting==>     /String concatonation</a>
 
-12. <a href="https://www.w3schools.com">InstanceOfFirstOccurence ==> /for loop /if condition
+12. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/InstanceOfFirstOccurence.java
+">InstanceOfFirstOccurence ==>    /for loop /if condition
 </a>
 
-InstanceOfFirstOccurence ==> /for loop /if condition
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/InstanceOfFirstOccurence.java
+13. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/LongestName.java
+">Visit W3SchoolLongestName==>    array search /for-loop 
+/if condition</a>
 
-13. LongestName
-/array search /for-loop 
-/if condition
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/LongestName.java
+14. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/OverallStudentAverage.java
+">OverallStudentAverage==>    /nested loops with 2D arrays 
+</a>
 
-14. OverallStudentAverage
-/nested loops with 2D arrays 
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/OverallStudentAverage.java
+15. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/PrintInReverse.java
+">PrintInReverse
+/collections.reverse()</a>
 
-15. PrintInReverse
-/collections.reverse()
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/PrintInReverse.java
+16. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/PyramidBlock.java
+">PyramidBlocks==>    /totalBlocks in all levels / for loop
+</a>
 
-16. PyramidBlocks
-/totalBlocks in all levels / for loop
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/PyramidBlock.java
+17. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/RaiseAlarms.java
+">RaiseAlarms==>    /for loop /while loop
+</a>
 
-17. RaiseAlarms /for loop /while loop
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/RaiseAlarms.java
+18. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/RandomDiceRoll.java
+">RandomDiceRoll==>     / six-sided /random number generator
+</a>
 
-18. RandomDiceRoll / six-sided /random number generator
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/RandomDiceRoll.java
+19. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/RollASix.java
+">RollASix==>     /while loop /if condition /break /return boolean
+</a>
 
-19. RollASix /while loop /if condition /break /return boolean
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/RollASix.java
-
-20. SquarePattern /nested loops 
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/SquarePattern.java
+20. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/SquarePattern.java
+">SquarePattern==>    /nested loops 
+</a>
 
 21. StudentSubjectAverage
 /Looping over 2D array /for loop
