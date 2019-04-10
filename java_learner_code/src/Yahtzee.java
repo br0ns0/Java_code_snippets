@@ -1,5 +1,3 @@
-//yahtzee /while loop/ random number generator
-
 public class Yahtzee {
 
     public int diceRoll() {
@@ -16,6 +14,7 @@ public class Yahtzee {
         int dice4 = diceRoll();
         int dice5 = diceRoll();
         int count = 1;
+
         while (!(dice1 == dice2 && dice2 == dice3 && dice3 == dice4 && dice4 == dice5)) {
             dice1 = diceRoll();
             dice2 = diceRoll();
