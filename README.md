@@ -83,16 +83,18 @@ Direct Links:
 ">SquarePattern==>    /nested loops 
 </a>
 
-21. StudentSubjectAverage
-/Looping over 2D array /for loop
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/StudentSubjectAverage.java
+21. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/StudentSubjectAverage.java
+">StudentSubjectAverage==>/Looping over 2D array /for loop
+</a>
 
-22. Yahtzee 
-/while loop/ random number generator
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Yahtzee.java
+22. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Yahtzee.java
+">Yahtzee ==>/while loop/ random number generator
+</a>
 
-23. YearsTilOneMillion
-/while loop
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/YearsTilOneMillion.java
+23. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/YearsTilOneMillion.java
+">YearsTilOneMillion==>/while loop
+</a>
+
+
 
 
