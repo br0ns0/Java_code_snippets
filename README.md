@@ -1,12 +1,15 @@
 # Java_code_snippets
 A code reference while learning Java 
 
-CHECK OUT MY PASTEBIN! 
+CODE CAN ALSO BE SEEN HERE:
 https://pastebin.com/u/bjthomas1
+
+CONNECT WITH ME:
+https://www.linkedin.com/in/bronson-sr/
 
 This is code that I have written in ther process of learning Java core. 
 
-this code can be easily referenced in attempt to understand different concepts and syntax
+Java_code_snippets code can be easily referenced in attempt to understand different concepts and syntax
 
 Direct Links:
 
