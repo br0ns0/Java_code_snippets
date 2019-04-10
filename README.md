@@ -1,6 +1,9 @@
 # Java_code_snippets
 A code reference while learning Java 
 
+<a href="https://pastebin.com/u/bjthomas1">CODE AVAILABLE ON PASTEBIN</a>
+
+
 CODE CAN ALSO BE SEEN HERE:
 https://pastebin.com/u/bjthomas1
 
