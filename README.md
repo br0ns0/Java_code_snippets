@@ -1,16 +1,12 @@
 # Java_code_snippets
 A code reference while learning Java 
 
-<a href="https://pastebin.com/u/bjthomas1">CODE AVAILABLE ON PASTEBIN</a>
+<a href="https://pastebin.com/u/bjthomas1">CODE ALSO AVAILABLE ON PASTEBIN</a>
+
+<a href="https://www.linkedin.com/in/bronson-sr/">CONNECT WITH ME on LINKEDIN</a>
 
 
-CODE CAN ALSO BE SEEN HERE:
-https://pastebin.com/u/bjthomas1
-
-CONNECT WITH ME:
-https://www.linkedin.com/in/bronson-sr/
-
-This is code that I have written in ther process of learning Java core. 
+<h3>This is code that I have written in ther process of learning Java core.</h3> 
 
 Java_code_snippets code can be easily referenced in attempt to understand different concepts and syntax
 
