@@ -1,12 +1,11 @@
 # Java_code_snippets
 <h2>This is a<sub> code reference</sub> while learning <sup>Java</sup></h2>
-<h6><a href="https://www.linkedin.com/in/bronson-sr/">Connect with me on LinkedIN</a></h6>
+<h6><a href="https://www.linkedin.com/in/bronson-sr/">Connect with me on LinkedIN</a></h6></br></br></br>
 
 
 
 <h3>This is code that I have written in ther process of learning Java core.</h3> 
-
-<i>Java_code_snippets can be easily referenced in attempt to understand different concepts and syntax</i></br></br>
+<i>Java_code_snippets can be easily referenced in attempt to understand different concepts and syntax</i></br></br></br>
 <a href="https://pastebin.com/u/bjthomas1">CODE ALSO AVAILABLE ON PASTEBIN</a></h6>
 
 Direct Links:
