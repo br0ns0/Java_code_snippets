@@ -1,5 +1,5 @@
 # Java_code_snippets
-my code reference for learning Java 
+A code reference while learning Java 
 
 CHECK OUT MY PASTEBIN! 
 https://pastebin.com/u/bjthomas1
