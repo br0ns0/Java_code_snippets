@@ -1,5 +1,5 @@
 # Java_code_snippets
-<p>This is a<sub> code reference</sub> while learning <sup>Java</sup></p>
+<h2>This is a<sub> code reference</sub> while learning <sup>Java</sup></h2>
 </br>
 
 <a href="https://pastebin.com/u/bjthomas1">CODE ALSO AVAILABLE ON PASTEBIN</a>
