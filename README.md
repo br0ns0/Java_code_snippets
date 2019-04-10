@@ -1,6 +1,5 @@
 # Java_code_snippets
 <h2>This is a<sub> code reference</sub> while learning <sup>Java</sup></h2>
-</br>
 <h6><a href="https://www.linkedin.com/in/bronson-sr/">Connect with me on LinkedIN</a></h6>
 
 
