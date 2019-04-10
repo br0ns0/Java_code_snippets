@@ -7,8 +7,8 @@
 
 <h3>This is code that I have written in ther process of learning Java core.</h3> 
 
-<i>Java_code_snippets code can be easily referenced in attempt to understand different concepts and syntax</i></br>
-<h6><a href="https://www.linkedin.com/in/bronson-sr/">Connect with me on LinkedIN</a></h6>
+<i>Java_code_snippets can be easily referenced in attempt to understand different concepts and syntax</i></br>
+<h6><a href="https://www.linkedin.com/in/bronson-sr/">Connect with me on LinkedIN</a></h6></br></br>
 
 Direct Links:
 
