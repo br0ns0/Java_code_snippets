@@ -18,7 +18,10 @@ Direct Links:
 ">AbsoluteValue==>/if condition /Math.abs(double n)</a>
 
 
-2. AddNumbers
+2.<a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AddNumbers.java
+">AddNumbers==>/return total sum /for loop counter</a>
+ 
+AddNumbers
 /return total sum /for loop counter
 https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AddNumbers.java
 
