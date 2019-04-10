@@ -15,7 +15,7 @@ Direct Links:
   NAME:                
 
 1. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AbsoluteValue.java
-">AbsoluteValue       /if condition /Math.abs(double n)</a>
+">AbsoluteValue==>/if condition /Math.abs(double n)</a>
 
 
 2. AddNumbers
