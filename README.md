@@ -4,12 +4,11 @@
 
 <a href="https://pastebin.com/u/bjthomas1">CODE ALSO AVAILABLE ON PASTEBIN</a>
 
-<a href="https://www.linkedin.com/in/bronson-sr/">CONNECT WITH ME on LINKEDIN</a>
-
 
 <h3>This is code that I have written in ther process of learning Java core.</h3> 
 
-Java_code_snippets code can be easily referenced in attempt to understand different concepts and syntax
+<i>Java_code_snippets code can be easily referenced in attempt to understand different concepts and syntax</i></br>
+<a href="https://www.linkedin.com/in/bronson-sr/">Connect with me on LinkedIN</a>
 
 Direct Links:
 
