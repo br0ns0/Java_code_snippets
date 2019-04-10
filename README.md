@@ -9,8 +9,7 @@ Direct Links:
 
   NAME:                
 
-1. AbsoluteValue       
-/if condition /Math.abs(double n)
+1. AbsoluteValue       /if condition /Math.abs(double n)
 https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AbsoluteValue.java
 
 2. AddNumbers
