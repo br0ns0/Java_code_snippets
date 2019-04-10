@@ -18,54 +18,39 @@ Direct Links:
 ">AbsoluteValue==>/if condition /Math.abs(double n)</a>
 
 
-2.<a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AddNumbers.java
+2. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AddNumbers.java
 ">AddNumbers==>/return total sum /for loop counter</a>
  
-AddNumbers
-/return total sum /for loop counter
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AddNumbers.java
+3. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CalculateTip.java
+">CalculateTip==>/printf</a>
+ 
+4. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CheckWifi.java
+">CheckWifi==>/for loop /boolean /if condition /break</a>
 
-3. CalculateTip 
-/printf 
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CalculateTip.java
+5.<a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CountingDown.java
+">CountingDown==>/for loop</a>
+ 
+6. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/EvenNumbers.java
+">EvenNumbers==>/for loop</a>
 
-4. CheckWifi 
-/for loop /boolean 
-/if condition /break
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CheckWifi.java
+7. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Factorial.java
+">Factorial==>/for loop</a>
 
-5. CountingDown
-/for loop
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CountingDown.java
+8. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/FastestTime.java
+">FastestTime==>/array search /for loop /if statment</a>
 
-6. EvenNumbers
-/for loop
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/EvenNumbers.java
+9. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Fetch.java">Fetch (DOG)==>/array counter/this.</a>
 
-7. Factorial
-/for loop
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Factorial.java
+10. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/FindRange.java
+">FindRange ==>/for loop /nested if staments</a>
 
-8. FastestTime
-/array search /for loop 
-/if statment
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/FastestTime.java
+11. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Greeting.java
+">Greeting==>/String concatonation</a>
 
-9. Fetch (DOG)
-/array counter
-/this.
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Fetch.java
+12. <a href="https://www.w3schools.com">InstanceOfFirstOccurence ==> /for loop /if condition
+</a>
 
-10. FindRange 
-/for loop /nested if staments
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/FindRange.java
-
-11. Greeting 
-/String concatonation
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Greeting.java
-
-12. InstanceOfFirstOccurence 
-/for loop /if condition
+InstanceOfFirstOccurence ==> /for loop /if condition
 https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/InstanceOfFirstOccurence.java
 
 13. LongestName
