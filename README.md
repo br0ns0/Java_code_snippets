@@ -1,21 +1,22 @@
 # Java_code_snippets
 <h2>This is a<sub> code reference</sub> while learning <sup>Java</sup></h2>
 </br>
+<h6><a href="https://www.linkedin.com/in/bronson-sr/">Connect with me on LinkedIN</a></h6>
 
-<a href="https://pastebin.com/u/bjthomas1">CODE ALSO AVAILABLE ON PASTEBIN</a>
 
 
 <h3>This is code that I have written in ther process of learning Java core.</h3> 
 
 <i>Java_code_snippets can be easily referenced in attempt to understand different concepts and syntax</i></br>
-<h6><a href="https://www.linkedin.com/in/bronson-sr/">Connect with me on LinkedIN</a></h6></br></br>
+<a href="https://pastebin.com/u/bjthomas1">CODE ALSO AVAILABLE ON PASTEBIN</a></h6></br></br>
 
 Direct Links:
 
   NAME:                
 
-1. AbsoluteValue       /if condition /Math.abs(double n)
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AbsoluteValue.java
+1. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/AbsoluteValue.java
+">AbsoluteValue       /if condition /Math.abs(double n)</a>
+
 
 2. AddNumbers
 /return total sum /for loop counter
