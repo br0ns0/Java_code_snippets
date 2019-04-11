@@ -93,6 +93,10 @@ Direct Links:
 ">YearsTilOneMillion==>/while loop
 </a>
 
+24. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/Monopoly.java
+">Monopoly==>/Math.random() /recursion 
+</a>
+
 
 
 
