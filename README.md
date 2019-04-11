@@ -50,7 +50,7 @@ Direct Links:
 </a>
 
 13. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/LongestName.java
-">Visit W3SchoolLongestName==>    array search /for-loop 
+">LongestName==>    array search /for-loop 
 /if condition</a>
 
 14. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/OverallStudentAverage.java
