@@ -25,7 +25,7 @@ Direct Links:
 4. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CheckWifi.java
 ">CheckWifi==>    /for loop /boolean /if condition /break</a>
 
-5.<a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CountingDown.java
+5. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CountingDown.java
 ">CountingDown==>   /for loop</a>
  
 6. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/EvenNumbers.java
