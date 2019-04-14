@@ -97,6 +97,10 @@ Direct Links:
 ">Monopoly==>/Math.random() /recursion 
 </a>
 
+25. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/TicTacToe.java
+">TicTacToe==>for loop/Character.toUpperCase()
+</a>
+
 
 
 
