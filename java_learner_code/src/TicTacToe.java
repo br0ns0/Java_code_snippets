@@ -16,7 +16,7 @@ public class TicTacToe {
     public String checkGameWinner(char[][] grid) {
         String result = "None";
         char winner;
-        char emptySpace = '-';
+        char emptySpot = '-';
 
         for (int i = 0; i < grid.length; i++) {
             // Check the horizontal axis
@@ -39,7 +39,7 @@ public class TicTacToe {
                 break;
             }
             // Check the tie case "Tie"
-            else if (emptySpace == 0) { //Assume freeSpots "-" = 0
+            else if (emptySpot == 0) { //Assume freeSpots "-" = 0
                 result = "Tie";
                 break;
             }
