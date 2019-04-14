@@ -9,13 +9,14 @@ public class TicTacToe {
      * @param grid 2D array of characters representing the game board
      * @return String indicating the outcome of the game: "X wins" or "O wins" or "Tie" or "None"
      * <p>
-     * "-" represents an empty space
+     * '-' represents an empty space
      */
 
 
     public String checkGameWinner(char[][] grid) {
         String result = "None";
         char winner;
+        char emptySpace = '-';
 
         for (int i = 0; i < grid.length; i++) {
             // Check the horizontal axis
@@ -38,7 +39,7 @@ public class TicTacToe {
                 break;
             }
             // Check the tie case "Tie"
-            else if (freeSpots == 0) { //Assume freeSpots "-" = 0
+            else if (emptySpace == 0) { //Assume freeSpots "-" = 0
                 result = "Tie";
                 break;
             }
