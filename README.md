@@ -101,6 +101,10 @@ Direct Links:
 ">TicTacToe==>for loop/Character.toUpperCase()
 </a>
 
+26. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/DayOfWeek.java
+">DayOfWeek==>ONE LINER!!==>LocalDate.of
+</a>
+
 
 
 
