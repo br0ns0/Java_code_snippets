@@ -105,6 +105,11 @@ Direct Links:
 ">DayOfWeek==>ONE LINER!!==>LocalDate.of
 </a>
 
+26. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/ReverseWord.java
+">ReverseWord==>ONE LINER!!==>StringBuilder
+</a>
+https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/ReverseWord.java
+
 
 
 
