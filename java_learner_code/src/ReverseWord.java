@@ -8,11 +8,8 @@ public class ReverseWord {
      * @param word
      */
     public void flipWord(String word) {
-        String reverse = "";                           // 0  1  2  3  4  5
-        for (int i = word.length() - 1; i >= 0; i--) { // m  a  d  a  m     length()-1 will begin at index[4] NOT index[5]
-            reverse += word.charAt(i); //
-        }
-        System.out.println(word.equals(reverse) ? "Yes" : "No"); // //ternary operator (condition ? "Yes" \\ "No")
+        System.out.println(word.equals(new StringBuilder(word).reverse().toString()) ? "Yes" : "No");
+
 
 
     }
