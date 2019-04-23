@@ -6,31 +6,33 @@ public class NumberGame {
 
 
     public void gamePlay() {
-        int randomNum = (int) (Math.random() * 100) + 1;
+        int randomNum = (int) (Math.random() * 1000) + 1;
         boolean hasWon = false;
 
-        System.out.println("I have chosen a random whole number between 1 & 100");
+        System.out.println("I have chosen a random whole number between 1 & 1000");
         System.out.println("Try to guess it!");
         Scanner scan = new Scanner(System.in);
 
-        for (int i = 10; i > 0; i--) { //loop through 10 guesses
+        for (int i = 8; i > 0; i--) { //loop through 7 guesses
             System.out.printf("You have %d guess(es) left!\n\nenter a number: ", i);
             int guess = scan.nextInt(); //stores input as int
 
-            if (randomNum > guess) {
-                System.out.println("Your guess is less than my number");
-            } else if (randomNum < guess) {
-                System.out.println("Your number is larger than my number");
+            if (randomNum < guess) {
+                System.out.printf("the number is less than %d try again\n", guess);
+            } else if (randomNum > guess) {
+                System.out.printf("the number is greater than %d try again\n", guess);
             } else {
                 hasWon = true;
+                break;
             }
+        }
 
             if (hasWon) {
-                System.out.println("You WIN! You have defeated me human!!\n");
-                break; //exits loop
+                System.out.println("CORRECT YOU WIN!\n\nYou have defeated me human!!\n");
+
             } else {
-                System.out.println("You LOSE!! How dare you attempt to defeat a machine you primitive human!");
-                System.out.printf("The random number that I generated was '%d'\n", randomNum);
+                System.out.println("YOU LOSE!!\n\nHow dare you attempt to defeat a machine you primitive human!");
+                System.out.printf("HAHA! the random number that I generated was '%d'\n\n\n", randomNum);
                 System.out.println("Try again if you DARE!");
 
             }
@@ -40,4 +42,4 @@ public class NumberGame {
     }
 
 
-}
+
