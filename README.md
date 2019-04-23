@@ -120,6 +120,9 @@ Direct Links:
 ">PhoneBook==>Map/HashMap
 </a>
 
+29.  <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/NumberGame.java
+">NumberGame==>Math.random/boolean
+</a>
 
 
 
