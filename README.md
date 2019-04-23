@@ -1,6 +1,8 @@
 # Java_code_snippets
 <h2>This is a<sub> code reference</sub> while learning <sup>Java</sup></h2>
 <h6><a href="https://www.linkedin.com/in/bronson-sr/">Connect with me on LinkedIN</a></h6></br></br></br>
+<img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" alt="JavaCup_1">
+
 
 
 
@@ -113,7 +115,6 @@ Direct Links:
 27. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CurrencyConverter.java
 ">CurrencyConverter==>NumberFormat/Locale
 </a>
-https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CurrencyConverter.java
 
 28. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/PhoneBook.java
 ">PhoneBook==>Map/HashMap
