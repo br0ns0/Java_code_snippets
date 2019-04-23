@@ -16,9 +16,6 @@ public class NumberGame {
         for (int i = 10; i > 0; i--) { //loop through 10 guesses
             System.out.printf("You have %d guess(es) left!\n\nenter a number: ", i);
             int guess = scan.nextInt(); //stores input as int
-            if (i == 0) {
-                System.out.println("You LOSE! You ran out of attempts");
-            }
 
             if (randomNum > guess) {
                 System.out.println("Your guess is less than my number");
@@ -30,7 +27,7 @@ public class NumberGame {
 
             if (hasWon) {
                 System.out.println("You WIN! You have defeated me human!!\n");
-                break;
+                break; //exits loop
             } else {
                 System.out.println("You LOSE!! How dare you attempt to defeat a machine you primitive human!");
                 System.out.printf("The random number that I generated was '%d'\n", randomNum);
