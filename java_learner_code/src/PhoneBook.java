@@ -3,7 +3,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class PhoneBook {
-    public void phoneBook() {
+    public void workingPhoneBook() {
 
         Scanner in = new Scanner(System.in);
         Map<String, Integer> phoneBook = new HashMap<>();
