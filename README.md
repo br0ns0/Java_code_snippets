@@ -5,7 +5,8 @@
 
 
 <h3>I am currently writing this code while learning Java core.</h3> 
-<i>Java_code_snippets can be easily referenced in attempt to understand different concepts and syntax</i></br></br></br>
+<i>Java_code_snippets can be easily referenced in attempt to understand different concepts and syntax</i>
+I will be revisiting this code at some point to refactor it according to my Java literacy.</br></br></br>
 <a href="https://pastebin.com/u/bjthomas1">CODE ALSO AVAILABLE ON PASTEBIN</a></h6><hr>
 
 Direct Links:
@@ -103,6 +104,10 @@ Direct Links:
 
 26. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/DayOfWeek.java
 ">DayOfWeek==>ONE LINER!!==>LocalDate.of
+</a>
+
+26. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/ReverseWord.java
+">ReverseWord==>ONE LINER!!==>StringBuilder
 </a>
 
 
