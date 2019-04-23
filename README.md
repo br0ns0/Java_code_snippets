@@ -103,12 +103,23 @@ Direct Links:
 </a>
 
 26. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/DayOfWeek.java
-">DayOfWeek==>ONE LINER!!==>LocalDate.of
+">DayOfWeek==>ONE_LINER!!==>LocalDate.of
 </a>
 
 26. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/ReverseWord.java
-">ReverseWord==>ONE LINER!!==>StringBuilder
+">ReverseWord==>ONE_LINER!!==>StringBuilder
 </a>
+
+27. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CurrencyConverter.java
+">CurrencyConverter==>NumberFormat/Locale
+</a>
+https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/CurrencyConverter.java
+
+28. <a href="https://github.com/br0ns0/Java_code_snippets/blob/master/java_learner_code/src/PhoneBook.java
+">PhoneBook==>Map/HashMap
+</a>
+
+
 
 
 
